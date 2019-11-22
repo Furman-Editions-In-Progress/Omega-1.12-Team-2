@@ -1,0 +1,29 @@
+# 1.8-1.14
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.8	τίς τʼ ἄρ σφωε θεῶν ἔριδι ξυνέηκε μάχεσθαι ;
+urn:cts:greekLit:tlg0012.tlg001.allen:1.8	ti/s t# a)/r sfwe qew=n e)/ridi cune/hke ma/xesqai ;
+urn:cts:greekLit:tlg0012.tlg001.e4:1.8		ti/s t# a)/r sfwe qew=n e)/ridi cune/hke ma/xesqai ;
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.9	Λητοῦς καὶ Διὸς υἱός · ὃ γὰρ βασιλῆϊ χολωθεὶς
+urn:cts:greekLit:tlg0012.tlg001.allen:1.9	*lhtou=s kai\ *dio\s ui(o/s # o(\ ga\r basilh=i+ xolwqei\s
+urn:cts:greekLit:tlg0012.tlg001.e4:1.9		*lhtou=s kai\ *dio\s ui(o/s # o(\ ga\r basilh=i+ xolwqei\s
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.10	νοῦσον ἀνὰ στρατὸν ὄρσε κακήν , ὀλέκοντο δὲ λαοί ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.10	nou=son a)na\ strato\n o)/rse kakh/n , o)le/konto de\ laoi/ ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.10		nou=son a)na\ strato\n o)/rse kakh/n , o)le/konto de\ laoi/ ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.11	οὕνεκα τὸν Χρύσην ἠτίμασεν ἀρητῆρα
+urn:cts:greekLit:tlg0012.tlg001.allen:1.11	ou(/neka to\n *xru/shn h)ti/masen a)rhth=ra
+urn:cts:greekLit:tlg0012.tlg001.e4:1.11		ou(/neka to\n *xru/shn h)ti/masen a)rhth=ra
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.12	Ἀτρεΐδης · ὃ γὰρ ἦλθε θοὰς ἐπὶ νῆας Ἀχαιῶν
+urn:cts:greekLit:tlg0012.tlg001.allen:1.12	*a)trei/+dhs # o(\ ga\r h)=lqe qoa\s e)pi\ nh=as *a)xaiw=n
+urn:cts:greekLit:tlg0012.tlg001.e4:1.12		*a)trei/+dhs # o(\ ga\r h)=lqe qoa\s e)pi\ nh=as *a)xaiw=n
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.13	λυσόμενός τε θύγατρα φέρων τʼ ἀπερείσιʼ ἄποινα ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.13	luso/meno/s te qu/gatra fe/rwn t# a)perei/si# a)/poina ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.13		luso/meno/s te qu/gatra fe/rwn t# a)perei/si# a)/poina ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.14	στέμματʼ ἔχων ἐν χερσὶν ἑκηβόλου Ἀπόλλωνος
+urn:cts:greekLit:tlg0012.tlg001.allen:1.14	ste/mmat# e)/xwn e)n xersi\n e(khbo/lou *a)po/llwnos
+urn:cts:greekLit:tlg0012.tlg001.e4:1.14		ste/mmat# e)/xwn e)n xersi\n e(khbo/lou *a)po/llwnos
