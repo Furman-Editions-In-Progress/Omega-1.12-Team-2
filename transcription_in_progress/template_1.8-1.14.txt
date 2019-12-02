@@ -21,9 +21,9 @@ urn:cts:greekLit:tlg0012.tlg001.allen:1.12	*a)trei/+dhs # o(\ ga\r h)=lqe qoa\s 
 urn:cts:greekLit:tlg0012.tlg001.e4:1.12		*a)trei/+dhs # o(\ ga\r h)=lqe qoa\s e)pi\ nh=as *a)xaiw=n
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.13	λυσόμενός τε θύγατρα φέρων τʼ ἀπερείσιʼ ἄποινα ,
-urn:cts:greekLit:tlg0012.tlg001.allen:1.13	luso/meno/s te qu/gatra fe/rwn t# a)perei/si# a)/poina ,
-urn:cts:greekLit:tlg0012.tlg001.e4:1.13		luso/meno/s te qu/gatra fe/rwn t# a)perei/si# a)/poina ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.13	luso/meno/s te qu/gatra fe/rwn t' a)perei/si' a)/poina ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.13		luso/meno/s te qu/gatra fe/rwn t' a)perei/si' a)/poina ,
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.14	στέμματʼ ἔχων ἐν χερσὶν ἑκηβόλου Ἀπόλλωνος
-urn:cts:greekLit:tlg0012.tlg001.allen:1.14	ste/mmat# e)/xwn e)n xersi\n e(khbo/lou *a)po/llwnos
-urn:cts:greekLit:tlg0012.tlg001.e4:1.14		ste/mmat# e)/xwn e)n xersi\n e(khbo/lou *a)po/llwnos
+urn:cts:greekLit:tlg0012.tlg001.allen:1.14	ste/mmat' e)/xwn e)n xersi\n e(khbo/lou *a)po/llwnos
+urn:cts:greekLit:tlg0012.tlg001.e4:1.14		ste/mmat' e)/xwn e)n xersi\n e(khbo/lou *a)po/llwnos
