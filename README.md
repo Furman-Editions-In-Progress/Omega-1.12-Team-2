@@ -4,8 +4,8 @@ MS Escorial Omega 1.12
 
 Editors:
 
-- A. Hubbard
-- B. Siegel
+- H. Hubbard
+- Z. Siegel
 - C. O'Hare
 
 Furman University, Department of Classics
