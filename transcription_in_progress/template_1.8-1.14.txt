@@ -2,7 +2,7 @@
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.8	τίς τʼ ἄρ σφωε θεῶν ἔριδι ξυνέηκε μάχεσθαι ;
 urn:cts:greekLit:tlg0012.tlg001.allen:1.8	ti/s t' a)/r sfwe qew=n e)/ridi cune/hke ma/xesqai ;
-urn:cts:greekLit:tlg0012.tlg001.e4:1.8		ti/s t' a)/r sfwe qew=n e)/ridi cune/hke ma/xesqai ;
+urn:cts:greekLit:tlg0012.tlg001.e4:1.8		ti/s ta/r sfwe qew=n e)/ridi cune/hke ma/xesqai ;
 
 urn:cts:greekLit:tlg0012.tlg001.allen:1.9	Λητοῦς καὶ Διὸς υἱός · ὃ γὰρ βασιλῆϊ χολωθεὶς
 urn:cts:greekLit:tlg0012.tlg001.allen:1.9	*lhtou=s kai\ *dio\s ui(o/s : o(\ ga\r basilh=i+ xolwqei\s
